@@ -1,0 +1,3 @@
+module "Jenkins" {
+  source = "../modules"
+}
